@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
-<h3 align="center">🎯 Focused on Full Stack Web Development</h3>
-
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
 ---
@@ -40,6 +38,18 @@
 ### ✨ Quote I Live By
 
 > “I may not know everything yet, but I’m not afraid to learn anything.”
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitali-Pandey&show_icons=true&theme=radical" alt="Mitali's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali-Pandey&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
