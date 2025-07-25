@@ -41,18 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitali-Pandey&show_icons=true&theme=radical" alt="Mitali's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali-Pandey&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mitali-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
