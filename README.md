@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mitali Pandey</h1>
+<h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
+
+---
+
+<p align="center">
+  💬 Let's connect & grow together!<br/>
+  <a href="https://www.linkedin.com/in/mitali-pandey-288166256/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 ---
 
 🌱 I’m currently learning the **MERN Stack (MongoDB, Express, React, Node.js)**  
 💻 Interested in **Web Development**  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mitali-pandey-288166256/)  
 🚧 **Projects Coming Soon... Stay Tuned!**
 
 ---
@@ -29,10 +37,4 @@
 
 ### ✨ Quote I Live By
 
-> “I may not know everything yet, but I’m not afraid to learn anything.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mitali-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+> “I may not know everything yet, but I’m not afraid to learn anyt
