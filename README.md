@@ -1,56 +1,48 @@
 <h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
-<p align="center">Aspiring Full Stack Developer · Passionate Learner · Web Dev Explorer</p>
+<h3 align="center">🎯 Focused on Full Stack Web Development</h3>
+
+<h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
 ---
 
 <p align="center">
+  💬 Let's connect & grow together!<br/>
   <a href="https://www.linkedin.com/in/mitali-pandey-288166256/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 ---
 
-### 🌱 About Me
-
-- Currently learning the **MERN Stack**
-- Passionate about **Web Development**
-- Exploring real-world projects & open-source
+🌱 I’m currently learning the **MERN Stack (MongoDB, Express, React, Node.js)**  
+💻 Interested in **Web Development**  
+🚧 **Projects Coming Soon... Stay Tuned!**
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Skills I'm Learning
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
 
 ---
 
-### 📌 Projects
-
-*Coming soon...*
-
----
-
-### 💬 Personal Quote
+### ✨ Quote I Live By
 
 > “I may not know everything yet, but I’m not afraid to learn anything.”
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mitali-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mitali-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
