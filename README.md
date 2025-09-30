@@ -14,7 +14,6 @@
 
 🌱 I’m currently learning the **MERN Stack (MongoDB, Express, React, Node.js)**  
 💻 Interested in **Web Development**  
-🚧 **Projects Coming Soon... Stay Tuned!**
 
 ---
 
