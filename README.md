@@ -1,20 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
-<!-- 🏆 Holopin Badges Section -->
+ 🏆 Holopin Badges Section
+ <p align="center">
+  <a href="[https://holopin.io/@mitalipandey](https://www.holopin.io/@mitalipandey#badges)">
+    <img src="[https://holopin.me/mitalipandey](https://www.holopin.io/@mitalipandey#badges)" alt="@mitalipandey's Holopin board" />
+  </a>
+</p> 
+
 <!-- <p align="center">
-  <a href="https://holopin.io/@mitalipandey">
-    <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
+  <a href="[https://www.holopin.io/@mitalipandey#badges](https://www.holopin.io/@mitalipandey#badges)" target="_blank">
+    <img src="[https://holopin.me/mitalipandey](https://www.holopin.io/@mitalipandey#badges)" alt="@mitalipandey's Holopin board" />
+    <br/>
+  
   </a>
 </p> -->
-
-<p align="center">
-  <a href="https://www.holopin.io/@mitalipandey#badges" target="_blank">
-    <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
-    <br/>
-    <small>Click to view all badges on Holopin</small>
-  </a>
-</p>
 
 
 
