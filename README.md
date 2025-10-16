@@ -2,11 +2,20 @@
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
 <!-- 🏆 Holopin Badges Section -->
+<!-- <p align="center">
+  <a href="https://holopin.io/@mitalipandey">
+    <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
+  </a>
+</p> -->
+
+<!-- 🏆 Holopin Badges Section -->
+<h3 align="center">🎖️ My Holopin Badges</h3>
 <p align="center">
   <a href="https://holopin.io/@mitalipandey">
     <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
   </a>
 </p>
+
 
 
 ---
