@@ -1,6 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
+<!-- 🏆 Holopin Badges Section -->
+<p align="center">
+  <a href="https://www.holopin.io/@mitalipandey#badges">
+    <img src="https://www.holopin.io/@mitalipandey#badges" alt="@Mtali Pandey's Holopin board" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
