@@ -8,11 +8,11 @@
   </a>
 </p> -->
 
-<!-- 🏆 Holopin Badges Section -->
-<h3 align="center">🎖️ My Holopin Badges</h3>
 <p align="center">
-  <a href="https://holopin.io/@mitalipandey">
+  <a href="https://www.holopin.io/@mitalipandey#badges" target="_blank">
     <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
+    <br/>
+    <small>Click to view all badges on Holopin</small>
   </a>
 </p>
 
