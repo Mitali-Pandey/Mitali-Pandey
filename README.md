@@ -3,7 +3,7 @@
 
  🏆 Holopin Badges Section
  <p align="center">
-  <a href="[https://holopin.io/@mitalipandey](https://www.holopin.io/@mitalipandey#badges)">
+  <a href="https://www.holopin.io/@mitalipandey#badges">
     <img src="[https://holopin.me/mitalipandey](https://www.holopin.io/@mitalipandey#badges)" alt="@mitalipandey's Holopin board" />
   </a>
 </p> 
