@@ -3,10 +3,11 @@
 
 <!-- 🏆 Holopin Badges Section -->
 <p align="center">
-  <a href="https://www.holopin.io/@mitalipandey#badges">
-    <img src="https://www.holopin.io/@mitalipandey#badges" alt="@Mtali Pandey's Holopin board" />
+  <a href="https://holopin.io/@mitalipandey">
+    <img src="https://holopin.me/mitalipandey" alt="@mitalipandey's Holopin board" />
   </a>
 </p>
+
 
 ---
 
