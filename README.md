@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Mitali Pandey</h1>
 <h3 align="center">Aspiring Full Stack Developer | Coding my way through the bugs 🐛✨ | Passionate Learner | Web Dev Explorer</h3>
 
- 🏆 Holopin Badges Section
+ <!--🏆 Holopin Badges Section
  <p align="center">
   <a href="https://www.holopin.io/@mitalipandey#badges">
     <img src="[https://holopin.me/mitalipandey](https://www.holopin.io/@mitalipandey#badges)" alt="@mitalipandey's Holopin board" />
   </a>
-</p> 
+</p>  -->
 
 <!-- <p align="center">
   <a href="[https://www.holopin.io/@mitalipandey#badges](https://www.holopin.io/@mitalipandey#badges)" target="_blank">
